@@ -1,0 +1,5 @@
+fastapi[standard]
+pydantic
+camelot-py
+opencv-python-headless
+ghostscript
